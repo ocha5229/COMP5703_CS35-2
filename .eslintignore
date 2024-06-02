@@ -1,0 +1,10 @@
+# buildjs
+build/*.js
+# src/assets
+src/assets
+# public
+public
+# js
+*.js
+# vue
+*.vue
